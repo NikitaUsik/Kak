@@ -81,7 +81,7 @@
    height: 20px;
    width: 20px;
    margin-right: 5px;
-   background-image: url(icon-cart.svg);
+   header-backround: url(icon-cart.svg);
   }
 
   .button a {
